@@ -1,119 +1,56 @@
-<h1 align="center">Hi, I'm Pasindu Harsha 👋🏼</h1>
+<h1 align="center">Hi, I'm Pasindu Harsha 👋</h1>
 
 <h3 align="center">
-Electronic & Telecommunication Engineering Undergraduate at KDU | BIT Undergraduate at UCSC
+Electronic & Telecommunication Engineering Undergraduate | BIT Undergraduate at UCSC
 </h3>
 
 <p align="center">
-📡 Telecom • 🤖 AI • 🔌 Embedded Systems • 🌐 IoT • 💻 Software • 🤖 Robotics • 🔐 Cybersecurity
-</p>
-
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00C7FF&center=true&vCenter=true&width=800&lines=Building+Intelligent+Connected+Systems;AI+%7C+IoT+%7C+Networks;Embedded+Systems+%7C+Software+Engineering;Telecommunications+%7C+Automation" />
+Telecommunications • Artificial Intelligence • Embedded Systems • IoT • Software Engineering • Cybersecurity
 </p>
 
 ---
 
-# 🙋‍♂️ About Me
+## About Me
 
-I am an undergraduate student pursuing **BSc (Hons) Engineering in Electronic and Telecommunication Engineering** and **Bachelor of Information Technology (BIT) at the University of Colombo School of Computing (UCSC).**
+I am an undergraduate student studying:
 
-I build intelligent connected systems by combining:
+- BSc (Hons) Engineering in Electronic and Telecommunication Engineering
+- Bachelor of Information Technology (BIT) at University of Colombo School of Computing
 
-📡 Telecommunications  
-🤖 Artificial Intelligence  
-🔌 Embedded Systems  
-🌐 IoT  
-💻 Software Engineering  
-🔐 Cybersecurity  
-🤖 Robotics & Automation  
+My technical interests include:
 
+- Communication Networks
+- Artificial Intelligence
+- Embedded Systems
+- IoT Systems
+- Software Development
+- Network Security
+- Automation
 
-```
-
-I focus on creating reliable solutions where **hardware, software, and intelligence work together.**
 
 ---
 
-# 🚀 Areas I Work On
+# Technical Skills
 
-## 📡 Telecommunications & Networking
+## Programming
 
-- 4G LTE / 5G Networks
-- Wireless Communication
-- Fiber Communication
-- TCP/IP Networking
-- Network Monitoring
-- Network Optimization
-- IoT Connectivity
+- Python
+- C
+- C++
+- Java
+- JavaScript
+- Dart
+- Bash
 
 
-## 🤖 Artificial Intelligence
+## Artificial Intelligence
 
 - Machine Learning
 - Deep Learning
 - Computer Vision
-- Predictive Analytics
-- AI Automation
-- Intelligent Network Systems
+- Predictive Models
 
-
-## 🔌 Embedded Systems & IoT
-
-- ESP32 / ESP-IDF
-- STM32
-- Arduino
-- Raspberry Pi
-- Embedded C
-- Sensor Integration
-- MQTT
-- Edge Computing
-
-
-## 🤖 Robotics & Automation
-
-- ROS 2
-- Gazebo
-- Robot Simulation
-- Sensor Fusion
-- Autonomous Systems
-
-
-## 💻 Software Engineering
-
-- Full Stack Development
-- Mobile Applications
-- Backend Development
-- REST APIs
-- Database Systems
-- Cloud Applications
-
-
-## 🔐 Cybersecurity
-
-- Network Security
-- IoT Security
-- OT / Industrial Security
-- SCADA Concepts
-- Traffic Analysis
-- Anomaly Detection
-
----
-
-# 🛠️ Technology Stack
-
-## 👨‍💻 Programming
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,c,cpp,java,js,dart,bash&perline=8"/>
-</p>
-
-
-## 🤖 AI / ML
-
-<p>
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow&perline=8"/>
-</p>
+Tools:
 
 - PyTorch
 - TensorFlow
@@ -123,259 +60,248 @@ I focus on creating reliable solutions where **hardware, software, and intellige
 - Pandas
 
 
-## 🔌 Embedded & Electronics
+## Embedded Systems & IoT
 
-<p>
-<img src="https://skillicons.dev/icons?i=arduino,raspberrypi&perline=8"/>
-</p>
+Platforms:
 
 - ESP32
-- ESP-IDF
 - STM32
 - Arduino
 - Raspberry Pi
+
+Technologies:
+
+- Embedded C
+- ESP-IDF
+- MQTT
 - UART
 - SPI
 - I2C
-- MQTT
-- WiFi
 - BLE
+- WiFi
 
 
-## 🌐 Networking & Telecom
+## Networking & Telecommunications
 
 - TCP/IP
 - CCNA Fundamentals
-- Wireshark
-- Packet Analysis
+- Routing & Switching
 - VLAN
 - DHCP
 - DNS
-- Routing
-- Switching
-- LTE
-- 5G Technologies
-- Fiber Networks
+- Network Monitoring
+- Packet Analysis
+- Wireshark
+- LTE / 5G Concepts
+- Fiber Communication
 
 
-## 🤖 Robotics
+## Software Development
 
-- ROS 2
-- Gazebo
-- Robot Simulation
-- Sensor Integration
-- Autonomous Robotics
+Frontend:
+
+- Flutter
+- React
+
+Backend:
+
+- Node.js
+- Express.js
+- REST APIs
+
+Databases:
+
+- MySQL
+- MongoDB
+- Firebase
 
 
-## 📡 Engineering Design & Simulation
+## Cybersecurity
 
-Tools:
+- Network Security
+- IoT Security
+- OT Security Concepts
+- SCADA Concepts
+- Traffic Analysis
+- Anomaly Detection
 
-- CST Studio Suite
+
+## Engineering Tools
+
 - MATLAB
 - Simulink
+- CST Studio Suite
 - Quartus
 - KiCad
-- EasyEDA
 - Proteus
 - LTspice
 - SolidWorks
 
-Applications:
-
-- RF Simulation
-- Antenna Concepts
-- Circuit Design
-- Signal Processing
-- Hardware Development
-
-
-## 💻 Software Development
-
-<p>
-<img src="https://skillicons.dev/icons?i=flutter,react,nodejs,express,firebase,mysql,mongodb&perline=8"/>
-</p>
-
-- Flutter
-- React
-- Node.js
-- Express.js
-- Firebase
-- MySQL
-- MongoDB
-- REST APIs
 
 ---
 
-# 🌟 Featured Projects
+# Projects
 
 
-## 🤖 TrustRestore — AI Image Restoration Research
+## TrustRestore
 
-Deep learning based computer vision research project.
+AI-based image restoration research project.
 
-**Stack:**
+Technologies:
 
-Python • PyTorch • OpenCV
+- Python
+- PyTorch
+- OpenCV
 
-**Focus:**
+Areas:
 
-- Self-supervised Learning
+- Deep Learning
 - Image Restoration
-- Trust-aware Prediction
 - Model Evaluation
 
 
 ---
 
-## 🏥 HYGEIA — Smart Healthcare IoT Platform
+## HYGEIA
 
-🏆 Best Innovation Award – BioFusion Undergraduate Exhibition 2026
+Smart healthcare IoT platform.
 
-IoT healthcare ecosystem combining:
+Technologies:
 
 - Embedded Systems
-- Wireless Communication
+- IoT
 - Machine Learning
-- Mobile Applications
+- Mobile Application Development
+
+Features:
+
+- Sensor-based monitoring
+- Wireless communication
+- Data processing
 
 
 ---
 
-## 🔌 DiyaMithuru — Smart Assistive IoT System
+## DiyaMithuru
 
-ESP32-based assistive technology solution.
+ESP32-based assistive IoT system.
 
-**Stack:**
+Technologies:
 
-ESP32 • Embedded C • MQTT • Firebase
+- ESP32
+- Embedded C
+- MQTT
+- Firebase
 
 Features:
 
+- Device monitoring
 - Automation
-- Real-time Monitoring
-- Cloud Connectivity
+- Cloud connectivity
 
 
 ---
 
-## 🔥 GasGuard — Intelligent Safety System
+## GasGuard
 
-IoT + ML based safety platform.
+IoT safety monitoring system.
+
+Technologies:
+
+- ESP32
+- Sensors
+- Machine Learning
+- Data Analysis
 
 Features:
 
-- Gas Leakage Detection
-- Weight Monitoring
-- Environmental Sensing
-- Predictive Analysis
+- Gas detection
+- Environmental monitoring
+- Predictive analysis
 
 
 ---
 
-## 🏥 CareHub — Hospital Management System
+## CareHub
 
-Full-stack healthcare platform.
+Hospital management system.
 
-**Stack:**
+Technologies:
 
-Flutter • Node.js • REST API • Database Systems
-
+- Flutter
+- Node.js
+- REST API
+- Database Systems
 
 Features:
 
-- Role-based Dashboards
-- Hospital Workflows
-- Digital Healthcare Management
+- User management
+- Healthcare workflows
+- Digital records
 
 
 ---
 
-## 🧠 PasLang — Programming Language Project
+## GeoDoze
 
-Compiler and programming language development.
+Offline GPS-based mobile application.
 
-Exploring:
+Technologies:
+
+- Flutter
+- GPS
+- Geofencing
+
+Features:
+
+- Location tracking
+- Smart notifications
+- Offline operation
+
+
+---
+
+## PasLang
+
+Programming language and compiler project.
+
+Areas:
 
 - Lexer
 - Parser
 - Compiler Design
-- Runtime Systems
+- Runtime Concepts
 
 
 ---
 
-## 📍 GeoDoze — Intelligent GPS Assistant
+# Research Interests
 
-Offline-first mobile application.
-
-**Stack:**
-
-Flutter • GPS • Geofencing
-
-
----
-
-# 📚 Research Interests
-
-- AI-powered Communication Networks
-- 5G / 6G Technologies
-- Network Intelligence
+- AI for Communication Networks
+- 5G / 6G Networks
 - Edge AI
 - Industrial IoT
-- Cybersecurity
-- Robotics
+- Network Security
 - Autonomous Systems
+- Robotics
 
 
 ---
 
-# 🌱 Currently Learning
+# Currently Learning
 
 - CCNA 200-301
-- Advanced Computer Networks
+- Computer Networks
 - Cloud Computing
 - DevOps
 - Machine Learning Engineering
 - ROS 2
 - Industrial Automation
-- Cybersecurity
 
 
 ---
 
-# 🧠 Engineering Philosophy
-
-I believe future technology will be created by combining:
-
-```
-Electronics
-+
-Communication
-+
-Artificial Intelligence
-+
-Software
-+
-Automation
-
-=
-
-Intelligent Connected Systems
-```
-
----
-
-# 📊 Coding & Developer Profiles
-
-<p align="center">
-
-<a href="https://leetcode.com/u/pasinduw-sketch">
-<img src="https://leetcard.jacoblin.cool/pasinduw-sketch?theme=dark&font=Karma&ext=contest" width="420"/>
-</a>
-
-</p>
-
+# Developer Profiles
 
 <p align="center">
 
@@ -383,38 +309,30 @@ Intelligent Connected Systems
 <img src="https://github-readme-stats.vercel.app/api?username=Lilendra-Pasindu-Harsha&show_icons=true&theme=tokyonight"/>
 </a>
 
+<a href="https://github.com/Lilendra-Pasindu-Harsha">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lilendra-Pasindu-Harsha&layout=compact&theme=tokyonight"/>
+</a>
 
 </p>
 
 
 ---
 
-# 🌐 Connect With Me
+# Contact
 
-<p align="center">
+LinkedIn:
+https://www.linkedin.com/in/pasinduharsha/
 
-<a href="https://www.linkedin.com/in/pasinduharsha/">
-<img src="https://skillicons.dev/icons?i=linkedin" width="45"/>
-</a>
+GitHub:
+https://github.com/Lilendra-Pasindu-Harsha
 
-<a href="https://github.com/Lilendra-Pasindu-Harsha">
-<img src="https://skillicons.dev/icons?i=github" width="45"/>
-</a>
+LeetCode:
+https://leetcode.com/u/pasinduw-sketch
 
-<a href="https://leetcode.com/u/pasinduw-sketch">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/leetcode.svg" width="45"/>
-</a>
-
-<a href="https://www.kaggle.com/pasinduharsha01">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/kaggle.svg" width="45"/>
-</a>
-
-<a href="mailto:pasinduharsha02@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" width="45"/>
-</a>
-
-</p>
+Kaggle:
+https://www.kaggle.com/pasinduharsha01
 
 
-⭐ Open to collaboration, research, internships, and innovative engineering projects.
+---
+
+Open to research projects, internships, and technical collaborations.
