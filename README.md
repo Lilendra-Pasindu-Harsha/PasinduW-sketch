@@ -1,98 +1,134 @@
-# Hi there, I'm Pasindu Harsha 👋🏼
+# Hi, I'm Pasindu Harsha 👋🏼
 
-## Who am I 🙋‍♂️
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00C7FF&center=true&vCenter=true&width=850&lines=Electronic+%26+Telecommunication+Engineering+Student;BIT+Undergraduate+at+UCSC;AI+%7C+IoT+%7C+Embedded+Systems+%7C+Networks;Building+Intelligent+Connected+Systems" />
+</p>
 
-I am an undergraduate student pursuing a **BSc (Hons) Engineering in Electronic and Telecommunication Engineering** while also following the **Bachelor of Information Technology (BIT) degree at the University of Colombo School of Computing **.
-
-I am passionate about understanding how modern technologies work from end to end — from how data is collected by intelligent devices, how it travels through communication networks, how software systems process information, and how artificial intelligence transforms data into meaningful solutions.
-
-My work combines **Telecommunications, Software Engineering, Artificial Intelligence, Embedded Systems, Cybersecurity, and Internet of Things (IoT)**.
-
-I enjoy building systems where hardware, networks, and software come together to solve practical real-world problems.
-
-I believe engineering is not only about creating advanced technology, but also about designing solutions that are reliable, scalable, efficient, and valuable for people.
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Lilendra-Pasindu-Harsha&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
 
 ---
 
-# What I'm focused on 🔭
+## 🙋‍♂️ About Me
+
+I am an undergraduate student pursuing a **BSc (Hons) Engineering in Electronic and Telecommunication Engineering** while also following the **Bachelor of Information Technology (BIT) degree at the University of Colombo School of Computing (UCSC).**
+
+I am passionate about building intelligent connected systems by combining:
+
+- 📡 Telecommunications
+- 🤖 Artificial Intelligence
+- 🔌 Embedded Systems
+- 🌐 Internet of Things
+- 💻 Software Engineering
+- 🔐 Cybersecurity
+- 🤖 Robotics & Automation
+
+I enjoy understanding technology from end to end:
+
+```
+Sensors
+   ↓
+Embedded Systems
+   ↓
+Communication Networks
+   ↓
+Data Processing
+   ↓
+Artificial Intelligence
+   ↓
+Real World Applications
+```
+
+My goal is to create reliable, scalable, and practical engineering solutions that connect hardware, software, and intelligent algorithms.
+
+---
+
+# 🚀 What I Work On
 
 ## 📡 Telecommunications & Networking
 
-Exploring modern communication technologies and intelligent network systems.
-
-- 4G LTE, 5G and future wireless communication technologies
-- Wireless communication systems
-- Network architecture and optimization
-- TCP/IP networking
-- Network monitoring and troubleshooting
-- Fiber communication concepts
-- IoT communication protocols
-- Network security and reliability
+- 4G LTE Communication Systems
+- 5G Wireless Networks
+- 6G Research Concepts
+- Wireless Communication
+- Fiber Communication
+- TCP/IP Networking
+- Network Monitoring
+- Network Optimization
+- IoT Communication
+- Network Security
 
 ---
 
 ## 🤖 Artificial Intelligence & Machine Learning
 
-Building intelligent solutions using data-driven approaches.
-
-- Machine Learning applications
+- Machine Learning
 - Deep Learning
 - Computer Vision
-- Predictive analytics
-- AI-assisted automation
-- AI for communication networks
-- Research-oriented ML projects
+- Predictive Analytics
+- AI Automation
+- Intelligent Monitoring Systems
+- AI for Communication Networks
 
 ---
 
 ## 🔌 Embedded Systems & IoT
 
-Developing connected intelligent devices.
-
-- ESP32 / ESP-IDF based systems
-- STM32 embedded development
-- Sensor-based automation
-- Edge computing concepts
-- Smart healthcare systems
-- Industrial IoT applications
-- Real-time monitoring solutions
-
----
-
-## 💻 Software Engineering & IT
-
-Developing practical software solutions and information systems.
-
-- Full-stack web applications
-- Mobile application development
-- Backend API development
-- Database management systems
-- Cloud-connected applications
-- Software architecture
-- System design
-- Information Technology concepts
+- ESP32 / ESP-IDF
+- STM32
+- Arduino
+- Raspberry Pi
+- Embedded C
+- Sensor Integration
+- Real-Time Systems
+- MQTT Communication
+- WiFi / BLE
+- Edge Computing
 
 ---
 
-## 🔐 Cybersecurity & Industrial Automation
+## 🤖 Robotics & Automation
 
-Interested in protecting connected systems and critical infrastructure.
-
-- Network security concepts
-- IoT security
-- Industrial communication security
-- OT/ICS cybersecurity
-- Traffic analysis
-- Intelligent anomaly detection systems
+- ROS 2
+- Robot Operating System
+- Gazebo Simulation
+- Robot Control
+- Sensor Fusion
+- Autonomous Systems
+- Embedded Robotics
 
 ---
 
-# Technologies I work with 🛠️
+## 💻 Software Engineering
 
-## Programming Languages & AI
+- Full Stack Development
+- Mobile Applications
+- Backend Systems
+- REST APIs
+- Database Systems
+- Cloud Applications
+- Software Architecture
+
+---
+
+## 🔐 Cybersecurity
+
+- Network Security
+- IoT Security
+- Industrial OT Security
+- SCADA Security Concepts
+- Traffic Analysis
+- Anomaly Detection
+
+---
+
+# 🛠️ Technologies & Tools
+
+## Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,c,cpp,java,js,dart&perline=8" />
+<img src="https://skillicons.dev/icons?i=python,c,cpp,java,js,dart,bash&perline=8"/>
 </p>
 
 - Python
@@ -102,21 +138,27 @@ Interested in protecting connected systems and critical infrastructure.
 - JavaScript
 - Dart
 
-AI / ML:
+---
 
-- TensorFlow
+## AI / ML
+
+<p>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch&perline=8"/>
+</p>
+
 - PyTorch
+- TensorFlow
 - OpenCV
 - Scikit-learn
-- Machine Learning
-- Deep Learning
+- NumPy
+- Pandas
 
 ---
 
-# Embedded Systems & IoT
+## Embedded & Electronics
 
 <p>
-<img src="https://skillicons.dev/icons?i=arduino,raspberrypi&perline=8" />
+<img src="https://skillicons.dev/icons?i=arduino,raspberrypi&perline=8"/>
 </p>
 
 - ESP32
@@ -124,189 +166,279 @@ AI / ML:
 - STM32
 - Arduino
 - Raspberry Pi
-- Sensors and actuators
 - UART
-- I2C
 - SPI
+- I2C
 - MQTT
-- Wi-Fi
+- WiFi
 - Bluetooth / BLE
-- Firebase IoT integration
 
 ---
 
-# Networking & Telecommunications
+## Networking & Telecom
 
 <p>
-<img src="https://skillicons.dev/icons?i=linux,docker&perline=8" />
+<img src="https://skillicons.dev/icons?i=linux,docker&perline=8"/>
 </p>
 
-- TCP/IP Networking
+- TCP/IP
 - CCNA Fundamentals
 - Wireshark
 - Packet Analysis
 - VLAN
 - DHCP
 - DNS
-- Routing and Switching Concepts
-- Fiber Communication
-- LTE / 5G Technologies
-- Network Troubleshooting
+- Routing
+- Switching
+- LTE
+- 5G Concepts
+- Fiber Networks
 
 ---
 
-# Software Development
+## Robotics Tools
+
+- ROS 2
+- Gazebo
+- Robot Simulation
+- Sensor Integration
+- Autonomous Robotics
+
+---
+
+## Engineering Design & Simulation
+
+Tools:
+
+- CST Studio Suite
+- MATLAB
+- Simulink
+- Quartus
+- KiCad
+- EasyEDA
+- Proteus
+- LTspice
+- SolidWorks
+
+Applications:
+
+- RF Simulation
+- Antenna Design Concepts
+- Circuit Design
+- Signal Processing
+- Hardware Development
+
+---
+
+## Software Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=flutter,react,nodejs,express,mysql,mongodb,firebase&perline=8" />
+<img src="https://skillicons.dev/icons?i=flutter,react,nodejs,express,mysql,mongodb,firebase&perline=8"/>
 </p>
 
-- Flutter Mobile Development
-- React Web Development
-- Node.js Backend
+- Flutter
+- React
+- Node.js
 - Express.js
-- REST APIs
 - Firebase
 - MySQL
 - MongoDB
-- Cloud Integration
+- REST APIs
 
 ---
 
-# Featured Projects 🚀
+# 🌟 Featured Projects
 
 ## 🤖 TrustRestore — AI Image Restoration Research
 
-A research-oriented computer vision project exploring reliable image restoration using deep learning.
+A computer vision research project focused on reliable image restoration using deep learning.
 
-### Technologies:
+**Technologies**
+
+- Python
 - PyTorch
 - OpenCV
-- Computer Vision
-- Self-supervised Learning
 - Deep Learning
 
-### Focus:
+**Research Areas**
+
+- Self-supervised learning
 - Image restoration
-- Degraded image analysis
 - Trust-aware prediction
-- Model reliability evaluation
-- PSNR / SSIM analysis
+- Model evaluation
+- PSNR / SSIM Analysis
+
+---
+
+## 🏥 HYGEIA — Smart Healthcare IoT Platform
+
+🏆 Best Innovation Award – BioFusion Undergraduate Exhibition 2026
+
+An IoT healthcare ecosystem combining:
+
+- Embedded Systems
+- Wireless Communication
+- Machine Learning
+- Mobile Applications
+
+Features:
+
+- Health Monitoring
+- Smart Alerts
+- Connected Healthcare Solutions
 
 ---
 
 ## 🔌 DiyaMithuru — Smart Assistive IoT System
 
-A smart embedded solution designed to improve accessibility through automation.
+An ESP32-based assistive technology solution.
 
-### Technologies:
+Technologies:
+
 - ESP32
 - Embedded C
 - MQTT
 - Firebase
-- IoT Communication
-
-### Features:
-- Sensor-based automation
-- Real-time monitoring
-- Cloud connectivity
-- Assistive technology design
-
----
-
-## 🏥 HYGEIA — Smart Healthcare Platform
-
-An IoT-based healthcare ecosystem combining embedded systems, wireless communication, and intelligent monitoring.
-
-### Technologies:
-- ESP32
 - Sensors
-- Wireless Communication
-- Machine Learning
-- Mobile Application
 
-### Focus:
-- Remote health monitoring
-- Smart alerts
-- Connected healthcare solutions
+Features:
+
+- Automation
+- Real-Time Monitoring
+- Cloud Connectivity
 
 ---
 
 ## 🔥 GasGuard — Intelligent LPG Safety System
 
-A smart IoT safety platform combining machine learning and embedded technology.
+IoT + Machine Learning safety platform.
 
-### Technologies:
-- ESP32
-- Sensors
-- Firebase
-- Machine Learning
-- Mobile Application
+Features:
 
-### Features:
-- Gas leak detection
-- Environmental monitoring
-- Predictive safety analysis
-- Automated safety response
+- Gas Leak Detection
+- Weight Monitoring
+- Environmental Monitoring
+- Predictive Safety Analysis
 
 ---
 
-## 📍 GeoDoze — Intelligent Location Assistant
+## 🏥 CareHub — Hospital Management System
 
-An offline-first mobile application using GPS and geofencing technologies.
+Full-stack healthcare management platform.
 
-### Technologies:
+Technologies:
+
+- Flutter
+- Node.js
+- REST APIs
+- Database Systems
+
+Features:
+
+- Role-based dashboards
+- Digital healthcare workflows
+- Hospital management
+
+---
+
+## 🧠 PasLang — Programming Language Project
+
+A programming language and compiler development project.
+
+Exploring:
+
+- Lexer Design
+- Parser Development
+- Compiler Concepts
+- Runtime Architecture
+
+---
+
+## 📍 GeoDoze — Intelligent GPS Assistant
+
+Offline-first mobile application using:
+
 - Flutter
 - GPS
 - Geofencing
-- Local Notifications
-
-### Features:
-- Smart destination alerts
-- Background location processing
-- Battery-efficient tracking
+- Background Processing
 
 ---
 
-# Research & Engineering Interests 📚
+# 📚 Research Interests
 
 Currently exploring:
 
-- AI-enabled communication networks
-- 5G / 6G wireless systems
-- Network fault prediction
-- Intelligent IoT systems
+- AI-powered communication networks
+- 5G / 6G technologies
+- Network Intelligence
 - Edge AI
-- Industrial automation
-- Cybersecurity for connected infrastructure
-- Smart communication systems
-
----
-
-# Currently Learning 🌱
-
-- Advanced Computer Networks
-- CCNA 200-301
-- Cloud Computing
-- DevOps Practices
-- Machine Learning Engineering
-- Cybersecurity
 - Industrial IoT
-- Distributed Systems
-- Software Architecture
+- Cybersecurity
+- Robotics
+- Autonomous Systems
 
 ---
 
-# My Engineering Philosophy 🌍
+# 🌱 Currently Learning
 
-I enjoy understanding systems from the inside out:
+- CCNA 200-301
+- Advanced Computer Networks
+- Cloud Computing
+- DevOps
+- Machine Learning Engineering
+- ROS 2
+- Industrial Automation
+- Cybersecurity
 
-**Where does the data come from?**
+---
 
-**How does information travel through a system?**
+# 🧠 Engineering Philosophy
 
-**What happens when something fails?**
+I believe future technology will be created by combining:
 
-**How can intelligence improve reliability?**
+```
+Electronics
++
+Communication
++
+Artificial Intelligence
++
+Software
++
+Automation
+=
+Intelligent Connected Systems
+```
 
-The future belongs to connected intelligent systems where:
+I enjoy building systems that connect people, devices, and information.
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Lilendra-Pasindu-Harsha&show_icons=true&theme=tokyonight"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lilendra-Pasindu-Harsha&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 📫 Connect With Me
+
+<p>
+
+<a href="mailto:pasinduharsha02@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+<a href="https://www.linkedin.com/in/pasinduharsha/">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+</p>
+
+⭐ Open to collaboration, research discussions, internships, and innovative engineering projects.
