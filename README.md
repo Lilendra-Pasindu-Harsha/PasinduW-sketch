@@ -1,33 +1,37 @@
-# Hi, I'm Pasindu Harsha 👋🏼
+<h1 align="center">
+  Hi, I'm Pasindu Harsha 👋🏼
+</h1>
+
+<h3 align="center">
+Electronic & Telecommunication Engineering Undergraduate | BIT Undergraduate at UCSC | AI • IoT • Embedded Systems • Networks
+</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00C7FF&center=true&vCenter=true&width=850&lines=Electronic+%26+Telecommunication+Engineering+Student;BIT+Undergraduate+at+UCSC;AI+%7C+IoT+%7C+Embedded+Systems+%7C+Networks;Building+Intelligent+Connected+Systems" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00C7FF&center=true&vCenter=true&width=800&lines=Building+Intelligent+Connected+Systems;Telecommunications+%7C+AI+%7C+IoT;Embedded+Systems+%7C+Software+Engineering;Robotics+%7C+Cybersecurity+%7C+Automation" />
 </p>
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=Lilendra-Pasindu-Harsha&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
 
 ---
 
-## 🙋‍♂️ About Me
+# 🙋‍♂️ About Me
 
 I am an undergraduate student pursuing a **BSc (Hons) Engineering in Electronic and Telecommunication Engineering** while also following the **Bachelor of Information Technology (BIT) degree at the University of Colombo School of Computing (UCSC).**
 
-I am passionate about building intelligent connected systems by combining:
+I am passionate about building intelligent systems by combining:
 
-- 📡 Telecommunications
-- 🤖 Artificial Intelligence
-- 🔌 Embedded Systems
-- 🌐 Internet of Things
-- 💻 Software Engineering
-- 🔐 Cybersecurity
-- 🤖 Robotics & Automation
+📡 Telecommunications  
+🤖 Artificial Intelligence  
+🔌 Embedded Systems  
+🌐 Internet of Things  
+💻 Software Engineering  
+🔐 Cybersecurity  
+🤖 Robotics & Automation  
 
-I enjoy understanding technology from end to end:
+
+I enjoy understanding technology from the complete engineering pipeline:
 
 ```
-Sensors
+Hardware
    ↓
 Embedded Systems
    ↓
@@ -37,41 +41,37 @@ Data Processing
    ↓
 Artificial Intelligence
    ↓
-Real World Applications
+Real-World Applications
 ```
 
-My goal is to create reliable, scalable, and practical engineering solutions that connect hardware, software, and intelligent algorithms.
+My goal is to create reliable and scalable solutions where hardware, software, and intelligence work together.
 
 ---
 
-# 🚀 What I Work On
+# 🚀 Areas I Work On
+
 
 ## 📡 Telecommunications & Networking
 
-- 4G LTE Communication Systems
-- 5G Wireless Networks
-- 6G Research Concepts
+- 4G LTE / 5G Wireless Networks
+- Future 6G Communication Concepts
 - Wireless Communication
 - Fiber Communication
 - TCP/IP Networking
 - Network Monitoring
 - Network Optimization
-- IoT Communication
-- Network Security
+- IoT Connectivity
 
----
 
-## 🤖 Artificial Intelligence & Machine Learning
+## 🤖 Artificial Intelligence
 
 - Machine Learning
 - Deep Learning
 - Computer Vision
 - Predictive Analytics
 - AI Automation
-- Intelligent Monitoring Systems
-- AI for Communication Networks
+- Intelligent Network Solutions
 
----
 
 ## 🔌 Embedded Systems & IoT
 
@@ -81,36 +81,28 @@ My goal is to create reliable, scalable, and practical engineering solutions tha
 - Raspberry Pi
 - Embedded C
 - Sensor Integration
-- Real-Time Systems
 - MQTT Communication
-- WiFi / BLE
 - Edge Computing
 
----
 
 ## 🤖 Robotics & Automation
 
 - ROS 2
-- Robot Operating System
 - Gazebo Simulation
 - Robot Control
 - Sensor Fusion
 - Autonomous Systems
-- Embedded Robotics
 
----
 
 ## 💻 Software Engineering
 
 - Full Stack Development
 - Mobile Applications
-- Backend Systems
+- Backend Development
 - REST APIs
 - Database Systems
 - Cloud Applications
-- Software Architecture
 
----
 
 ## 🔐 Cybersecurity
 
@@ -121,30 +113,27 @@ My goal is to create reliable, scalable, and practical engineering solutions tha
 - Traffic Analysis
 - Anomaly Detection
 
+
 ---
 
-# 🛠️ Technologies & Tools
+# 🛠️ Tech Stack
 
-## Programming Languages
+
+## 👨‍💻 Programming
 
 <p>
 <img src="https://skillicons.dev/icons?i=python,c,cpp,java,js,dart,bash&perline=8"/>
 </p>
 
-- Python
-- C / C++
-- Embedded C
-- Java
-- JavaScript
-- Dart
 
----
-
-## AI / ML
+## 🤖 AI / Machine Learning
 
 <p>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch&perline=8"/>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow&perline=8"/>
 </p>
+
+
+Tools:
 
 - PyTorch
 - TensorFlow
@@ -153,13 +142,15 @@ My goal is to create reliable, scalable, and practical engineering solutions tha
 - NumPy
 - Pandas
 
+
 ---
 
-## Embedded & Electronics
+## 🔌 Embedded & Electronics
 
 <p>
 <img src="https://skillicons.dev/icons?i=arduino,raspberrypi&perline=8"/>
 </p>
+
 
 - ESP32
 - ESP-IDF
@@ -173,13 +164,11 @@ My goal is to create reliable, scalable, and practical engineering solutions tha
 - WiFi
 - Bluetooth / BLE
 
+
 ---
 
-## Networking & Telecom
+## 🌐 Networking & Telecom
 
-<p>
-<img src="https://skillicons.dev/icons?i=linux,docker&perline=8"/>
-</p>
 
 - TCP/IP
 - CCNA Fundamentals
@@ -191,12 +180,14 @@ My goal is to create reliable, scalable, and practical engineering solutions tha
 - Routing
 - Switching
 - LTE
-- 5G Concepts
+- 5G Technologies
 - Fiber Networks
+
 
 ---
 
-## Robotics Tools
+## 🤖 Robotics
+
 
 - ROS 2
 - Gazebo
@@ -204,9 +195,11 @@ My goal is to create reliable, scalable, and practical engineering solutions tha
 - Sensor Integration
 - Autonomous Robotics
 
+
 ---
 
-## Engineering Design & Simulation
+## 📡 Engineering Design & Simulation
+
 
 Tools:
 
@@ -220,21 +213,25 @@ Tools:
 - LTspice
 - SolidWorks
 
+
 Applications:
 
 - RF Simulation
-- Antenna Design Concepts
+- Antenna Concepts
 - Circuit Design
 - Signal Processing
 - Hardware Development
 
+
 ---
 
-## Software Development
+## 💻 Software Development
+
 
 <p>
-<img src="https://skillicons.dev/icons?i=flutter,react,nodejs,express,mysql,mongodb,firebase&perline=8"/>
+<img src="https://skillicons.dev/icons?i=flutter,react,nodejs,express,firebase,mysql,mongodb&perline=8"/>
 </p>
+
 
 - Flutter
 - React
@@ -245,28 +242,27 @@ Applications:
 - MongoDB
 - REST APIs
 
+
 ---
 
 # 🌟 Featured Projects
+
 
 ## 🤖 TrustRestore — AI Image Restoration Research
 
 A computer vision research project focused on reliable image restoration using deep learning.
 
-**Technologies**
+**Technology:**
 
-- Python
-- PyTorch
-- OpenCV
-- Deep Learning
+Python • PyTorch • OpenCV • Deep Learning
 
-**Research Areas**
+**Focus:**
 
 - Self-supervised learning
 - Image restoration
 - Trust-aware prediction
 - Model evaluation
-- PSNR / SSIM Analysis
+
 
 ---
 
@@ -281,44 +277,38 @@ An IoT healthcare ecosystem combining:
 - Machine Learning
 - Mobile Applications
 
-Features:
-
-- Health Monitoring
-- Smart Alerts
-- Connected Healthcare Solutions
 
 ---
 
 ## 🔌 DiyaMithuru — Smart Assistive IoT System
 
-An ESP32-based assistive technology solution.
+ESP32-based assistive technology solution.
 
-Technologies:
+**Technology:**
 
-- ESP32
-- Embedded C
-- MQTT
-- Firebase
-- Sensors
+ESP32 • Embedded C • MQTT • Firebase • Sensors
+
 
 Features:
 
 - Automation
-- Real-Time Monitoring
-- Cloud Connectivity
+- Real-time monitoring
+- Cloud connectivity
+
 
 ---
 
-## 🔥 GasGuard — Intelligent LPG Safety System
+## 🔥 GasGuard — Intelligent Safety System
 
-IoT + Machine Learning safety platform.
+IoT + Machine Learning based LPG safety platform.
 
 Features:
 
-- Gas Leak Detection
-- Weight Monitoring
-- Environmental Monitoring
-- Predictive Safety Analysis
+- Gas leakage detection
+- Weight monitoring
+- Environmental sensing
+- Predictive analysis
+
 
 ---
 
@@ -326,42 +316,42 @@ Features:
 
 Full-stack healthcare management platform.
 
-Technologies:
+Technology:
 
-- Flutter
-- Node.js
-- REST APIs
-- Database Systems
+Flutter • Node.js • REST API • Database Systems
+
 
 Features:
 
 - Role-based dashboards
-- Digital healthcare workflows
-- Hospital management
+- Hospital workflows
+- Digital healthcare management
+
 
 ---
 
 ## 🧠 PasLang — Programming Language Project
 
-A programming language and compiler development project.
+Compiler and programming language development project.
 
 Exploring:
 
-- Lexer Design
-- Parser Development
-- Compiler Concepts
-- Runtime Architecture
+- Lexer
+- Parser
+- Compiler Design
+- Runtime Systems
+
 
 ---
 
 ## 📍 GeoDoze — Intelligent GPS Assistant
 
-Offline-first mobile application using:
+Offline-first mobile application.
 
-- Flutter
-- GPS
-- Geofencing
-- Background Processing
+Technology:
+
+Flutter • GPS • Geofencing
+
 
 ---
 
@@ -378,6 +368,7 @@ Currently exploring:
 - Robotics
 - Autonomous Systems
 
+
 ---
 
 # 🌱 Currently Learning
@@ -390,6 +381,7 @@ Currently exploring:
 - ROS 2
 - Industrial Automation
 - Cybersecurity
+
 
 ---
 
@@ -411,11 +403,12 @@ Automation
 Intelligent Connected Systems
 ```
 
-I enjoy building systems that connect people, devices, and information.
+Building technology that connects people, devices, and information.
 
 ---
 
 # 📊 GitHub Stats
+
 
 <p align="center">
 
@@ -425,20 +418,35 @@ I enjoy building systems that connect people, devices, and information.
 
 </p>
 
+
 ---
 
-# 📫 Connect With Me
+# 🌐 Connect With Me
 
-<p>
 
-<a href="mailto:pasinduharsha02@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
-</a>
+<p align="center">
 
 <a href="https://www.linkedin.com/in/pasinduharsha/">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
+<img src="https://skillicons.dev/icons?i=linkedin" width="45"/>
+</a>
+
+<a href="https://github.com/Lilendra-Pasindu-Harsha">
+<img src="https://skillicons.dev/icons?i=github" width="45"/>
+</a>
+
+<a href="https://leetcode.com/u/pasinduw-sketch">
+<img src="https://skillicons.dev/icons?i=leetcode" width="45"/>
+</a>
+
+<a href="https://www.kaggle.com/pasinduharsha01">
+<img src="https://skillicons.dev/icons?i=kaggle" width="45"/>
+</a>
+
+<a href="mailto:pasinduharsha02@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" width="45"/>
 </a>
 
 </p>
+
 
 ⭐ Open to collaboration, research discussions, internships, and innovative engineering projects.
