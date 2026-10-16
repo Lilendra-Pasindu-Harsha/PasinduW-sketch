@@ -4,138 +4,65 @@
 Electronic & Telecommunication Engineering Undergraduate | BIT Undergraduate at UCSC
 </h3>
 
+
 <p align="center">
 Telecommunications • Artificial Intelligence • Embedded Systems • IoT • Software Engineering • Cybersecurity
 </p>
+
 
 ---
 
 ## About Me
 
-I am an undergraduate student studying:
+I am an undergraduate student studying Electronic and Telecommunication Engineering and Information Technology.
 
-- BSc (Hons) Engineering in Electronic and Telecommunication Engineering
-- Bachelor of Information Technology (BIT) at University of Colombo School of Computing
-
-My technical interests include:
+My areas of interest include:
 
 - Communication Networks
 - Artificial Intelligence
 - Embedded Systems
 - IoT Systems
 - Software Development
-- Network Security
+- Cybersecurity
 - Automation
 
 
 ---
 
-# Technical Skills
-
-## Programming
-
-- Python
-- C
-- C++
-- Java
-- JavaScript
-- Dart
-- Bash
+# Tech Stack
 
 
-## Artificial Intelligence
+<p align="center">
 
-- Machine Learning
-- Deep Learning
-- Computer Vision
-- Predictive Models
+<img src="https://skillicons.dev/icons?i=python,c,cpp,java,js,dart,bash" />
 
-Tools:
+<br><br>
 
-- PyTorch
-- TensorFlow
-- OpenCV
-- Scikit-learn
-- NumPy
-- Pandas
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" />
 
+<br><br>
 
-## Embedded Systems & IoT
+<img src="https://skillicons.dev/icons?i=arduino,raspberrypi,linux" />
 
-Platforms:
+<br><br>
 
-- ESP32
-- STM32
-- Arduino
-- Raspberry Pi
+<img src="https://skillicons.dev/icons?i=flutter,react,nodejs,express,mysql,mongodb,firebase" />
 
-Technologies:
+<br><br>
 
-- Embedded C
-- ESP-IDF
-- MQTT
-- UART
-- SPI
-- I2C
-- BLE
-- WiFi
+<img src="https://skillicons.dev/icons?i=git,github,docker" />
+
+</p>
 
 
-## Networking & Telecommunications
+<p align="center">
 
-- TCP/IP
-- CCNA Fundamentals
-- Routing & Switching
-- VLAN
-- DHCP
-- DNS
-- Network Monitoring
-- Packet Analysis
-- Wireshark
-- LTE / 5G Concepts
-- Fiber Communication
+<img src="https://img.shields.io/badge/MATLAB-orange?style=for-the-badge&logo=mathworks"/>
+<img src="https://img.shields.io/badge/Wireshark-blue?style=for-the-badge&logo=wireshark"/>
+<img src="https://img.shields.io/badge/ROS2-black?style=for-the-badge&logo=ros"/>
+<img src="https://img.shields.io/badge/CST%20Studio%20Suite-purple?style=for-the-badge"/>
 
-
-## Software Development
-
-Frontend:
-
-- Flutter
-- React
-
-Backend:
-
-- Node.js
-- Express.js
-- REST APIs
-
-Databases:
-
-- MySQL
-- MongoDB
-- Firebase
-
-
-## Cybersecurity
-
-- Network Security
-- IoT Security
-- OT Security Concepts
-- SCADA Concepts
-- Traffic Analysis
-- Anomaly Detection
-
-
-## Engineering Tools
-
-- MATLAB
-- Simulink
-- CST Studio Suite
-- Quartus
-- KiCad
-- Proteus
-- LTspice
-- SolidWorks
+</p>
 
 
 ---
@@ -145,19 +72,13 @@ Databases:
 
 ## TrustRestore
 
-AI-based image restoration research project.
+AI image restoration research project.
 
-Technologies:
+Focus:
 
-- Python
-- PyTorch
-- OpenCV
-
-Areas:
-
-- Deep Learning
-- Image Restoration
-- Model Evaluation
+- Deep learning models
+- Image restoration
+- Model evaluation
 
 
 ---
@@ -166,37 +87,27 @@ Areas:
 
 Smart healthcare IoT platform.
 
-Technologies:
+Focus:
 
-- Embedded Systems
-- IoT
-- Machine Learning
-- Mobile Application Development
-
-Features:
-
-- Sensor-based monitoring
-- Wireless communication
+- Embedded systems
+- IoT communication
 - Data processing
+- Mobile application
+
+
+🏆 Best Innovation Award - BioFusion Undergraduate Exhibition 2026
 
 
 ---
 
 ## DiyaMithuru
 
-ESP32-based assistive IoT system.
+ESP32 based assistive IoT system.
 
-Technologies:
+Focus:
 
-- ESP32
-- Embedded C
-- MQTT
-- Firebase
-
-Features:
-
-- Device monitoring
-- Automation
+- Sensor integration
+- Device communication
 - Cloud connectivity
 
 
@@ -204,73 +115,52 @@ Features:
 
 ## GasGuard
 
-IoT safety monitoring system.
+IoT based safety monitoring system.
 
-Technologies:
+Focus:
 
-- ESP32
-- Sensors
-- Machine Learning
-- Data Analysis
-
-Features:
-
-- Gas detection
-- Environmental monitoring
-- Predictive analysis
+- Sensor monitoring
+- Data analysis
+- Intelligent alerts
 
 
 ---
 
 ## CareHub
 
-Hospital management system.
+Healthcare management platform.
 
-Technologies:
+Focus:
 
-- Flutter
-- Node.js
-- REST API
-- Database Systems
-
-Features:
-
-- User management
-- Healthcare workflows
-- Digital records
+- Application development
+- Backend services
+- Database systems
 
 
 ---
 
 ## GeoDoze
 
-Offline GPS-based mobile application.
+Offline GPS assistant application.
 
-Technologies:
+Focus:
 
-- Flutter
-- GPS
+- Location services
 - Geofencing
-
-Features:
-
-- Location tracking
-- Smart notifications
-- Offline operation
+- Mobile development
 
 
 ---
 
 ## PasLang
 
-Programming language and compiler project.
+Programming language project.
 
-Areas:
+Focus:
 
 - Lexer
 - Parser
-- Compiler Design
-- Runtime Concepts
+- Compiler concepts
 
 
 ---
@@ -278,61 +168,65 @@ Areas:
 # Research Interests
 
 - AI for Communication Networks
-- 5G / 6G Networks
+- 5G / 6G Technologies
 - Edge AI
+- IoT Security
 - Industrial IoT
-- Network Security
-- Autonomous Systems
-- Robotics
+- Network Intelligence
 
 
 ---
 
 # Currently Learning
 
-- CCNA 200-301
-- Computer Networks
-- Cloud Computing
-- DevOps
-- Machine Learning Engineering
-- ROS 2
-- Industrial Automation
-
-
----
-
-# Developer Profiles
 
 <p align="center">
 
-<a href="https://github.com/Lilendra-Pasindu-Harsha">
-<img src="https://github-readme-stats.vercel.app/api?username=Lilendra-Pasindu-Harsha&show_icons=true&theme=tokyonight"/>
-</a>
-
-<a href="https://github.com/Lilendra-Pasindu-Harsha">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lilendra-Pasindu-Harsha&layout=compact&theme=tokyonight"/>
-</a>
+<img src="https://skillicons.dev/icons?i=linux,docker,python,cpp,git" />
 
 </p>
 
 
 ---
 
-# Contact
+# GitHub Statistics
 
-LinkedIn:
-https://www.linkedin.com/in/pasinduharsha/
 
-GitHub:
-https://github.com/Lilendra-Pasindu-Harsha
+<p align="center">
 
-LeetCode:
-https://leetcode.com/u/pasinduw-sketch
+<img src="https://github-readme-stats.vercel.app/api?username=Lilendra-Pasindu-Harsha&show_icons=true&theme=tokyonight"/>
 
-Kaggle:
-https://www.kaggle.com/pasinduharsha01
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lilendra-Pasindu-Harsha&layout=compact&theme=tokyonight"/>
+
+</p>
 
 
 ---
 
-Open to research projects, internships, and technical collaborations.
+# Connect
+
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/pasinduharsha/">
+<img src="https://skillicons.dev/icons?i=linkedin" width="45"/>
+</a>
+
+
+<a href="https://github.com/Lilendra-Pasindu-Harsha">
+<img src="https://skillicons.dev/icons?i=github" width="45"/>
+</a>
+
+
+<a href="https://leetcode.com/u/pasinduw-sketch">
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/leetcode.svg" width="45"/>
+</a>
+
+
+<a href="https://www.kaggle.com/pasinduharsha01">
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/kaggle.svg" width="45"/>
+</a>
+
+</p>
