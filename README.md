@@ -1,34 +1,34 @@
-<h1 align="center">
-  Hi, I'm Pasindu Harsha 👋🏼
-</h1>
+<h1 align="center">Hi, I'm Pasindu Harsha 👋🏼</h1>
 
 <h3 align="center">
-Electronic & Telecommunication Engineering Undergraduate | BIT Undergraduate at UCSC | AI • IoT • Embedded Systems • Networks
+Electronic & Telecommunication Engineering Undergraduate | BIT Undergraduate at UCSC
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00C7FF&center=true&vCenter=true&width=800&lines=Building+Intelligent+Connected+Systems;Telecommunications+%7C+AI+%7C+IoT;Embedded+Systems+%7C+Software+Engineering;Robotics+%7C+Cybersecurity+%7C+Automation" />
+📡 Telecom • 🤖 AI • 🔌 Embedded Systems • 🌐 IoT • 💻 Software • 🤖 Robotics • 🔐 Cybersecurity
 </p>
 
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00C7FF&center=true&vCenter=true&width=800&lines=Building+Intelligent+Connected+Systems;AI+%7C+IoT+%7C+Networks;Embedded+Systems+%7C+Software+Engineering;Telecommunications+%7C+Automation" />
+</p>
 
 ---
 
 # 🙋‍♂️ About Me
 
-I am an undergraduate student pursuing a **BSc (Hons) Engineering in Electronic and Telecommunication Engineering** while also following the **Bachelor of Information Technology (BIT) degree at the University of Colombo School of Computing (UCSC).**
+I am an undergraduate student pursuing **BSc (Hons) Engineering in Electronic and Telecommunication Engineering** and **Bachelor of Information Technology (BIT) at the University of Colombo School of Computing (UCSC).**
 
-I am passionate about building intelligent systems by combining:
+I build intelligent connected systems by combining:
 
 📡 Telecommunications  
 🤖 Artificial Intelligence  
 🔌 Embedded Systems  
-🌐 Internet of Things  
+🌐 IoT  
 💻 Software Engineering  
 🔐 Cybersecurity  
 🤖 Robotics & Automation  
 
-
-I enjoy understanding technology from the complete engineering pipeline:
+My engineering approach:
 
 ```
 Hardware
@@ -37,24 +37,22 @@ Embedded Systems
    ↓
 Communication Networks
    ↓
-Data Processing
+Data
    ↓
 Artificial Intelligence
    ↓
-Real-World Applications
+Applications
 ```
 
-My goal is to create reliable and scalable solutions where hardware, software, and intelligence work together.
+I focus on creating reliable solutions where **hardware, software, and intelligence work together.**
 
 ---
 
 # 🚀 Areas I Work On
 
-
 ## 📡 Telecommunications & Networking
 
-- 4G LTE / 5G Wireless Networks
-- Future 6G Communication Concepts
+- 4G LTE / 5G Networks
 - Wireless Communication
 - Fiber Communication
 - TCP/IP Networking
@@ -70,7 +68,7 @@ My goal is to create reliable and scalable solutions where hardware, software, a
 - Computer Vision
 - Predictive Analytics
 - AI Automation
-- Intelligent Network Solutions
+- Intelligent Network Systems
 
 
 ## 🔌 Embedded Systems & IoT
@@ -81,15 +79,15 @@ My goal is to create reliable and scalable solutions where hardware, software, a
 - Raspberry Pi
 - Embedded C
 - Sensor Integration
-- MQTT Communication
+- MQTT
 - Edge Computing
 
 
 ## 🤖 Robotics & Automation
 
 - ROS 2
-- Gazebo Simulation
-- Robot Control
+- Gazebo
+- Robot Simulation
 - Sensor Fusion
 - Autonomous Systems
 
@@ -108,16 +106,14 @@ My goal is to create reliable and scalable solutions where hardware, software, a
 
 - Network Security
 - IoT Security
-- Industrial OT Security
-- SCADA Security Concepts
+- OT / Industrial Security
+- SCADA Concepts
 - Traffic Analysis
 - Anomaly Detection
 
-
 ---
 
-# 🛠️ Tech Stack
-
+# 🛠️ Technology Stack
 
 ## 👨‍💻 Programming
 
@@ -126,14 +122,11 @@ My goal is to create reliable and scalable solutions where hardware, software, a
 </p>
 
 
-## 🤖 AI / Machine Learning
+## 🤖 AI / ML
 
 <p>
 <img src="https://skillicons.dev/icons?i=pytorch,tensorflow&perline=8"/>
 </p>
-
-
-Tools:
 
 - PyTorch
 - TensorFlow
@@ -143,14 +136,11 @@ Tools:
 - Pandas
 
 
----
-
 ## 🔌 Embedded & Electronics
 
 <p>
 <img src="https://skillicons.dev/icons?i=arduino,raspberrypi&perline=8"/>
 </p>
-
 
 - ESP32
 - ESP-IDF
@@ -162,13 +152,10 @@ Tools:
 - I2C
 - MQTT
 - WiFi
-- Bluetooth / BLE
+- BLE
 
-
----
 
 ## 🌐 Networking & Telecom
-
 
 - TCP/IP
 - CCNA Fundamentals
@@ -184,10 +171,7 @@ Tools:
 - Fiber Networks
 
 
----
-
 ## 🤖 Robotics
-
 
 - ROS 2
 - Gazebo
@@ -196,10 +180,7 @@ Tools:
 - Autonomous Robotics
 
 
----
-
 ## 📡 Engineering Design & Simulation
-
 
 Tools:
 
@@ -213,7 +194,6 @@ Tools:
 - LTspice
 - SolidWorks
 
-
 Applications:
 
 - RF Simulation
@@ -223,15 +203,11 @@ Applications:
 - Hardware Development
 
 
----
-
 ## 💻 Software Development
-
 
 <p>
 <img src="https://skillicons.dev/icons?i=flutter,react,nodejs,express,firebase,mysql,mongodb&perline=8"/>
 </p>
-
 
 - Flutter
 - React
@@ -242,7 +218,6 @@ Applications:
 - MongoDB
 - REST APIs
 
-
 ---
 
 # 🌟 Featured Projects
@@ -250,18 +225,18 @@ Applications:
 
 ## 🤖 TrustRestore — AI Image Restoration Research
 
-A computer vision research project focused on reliable image restoration using deep learning.
+Deep learning based computer vision research project.
 
-**Technology:**
+**Stack:**
 
-Python • PyTorch • OpenCV • Deep Learning
+Python • PyTorch • OpenCV
 
 **Focus:**
 
-- Self-supervised learning
-- Image restoration
-- Trust-aware prediction
-- Model evaluation
+- Self-supervised Learning
+- Image Restoration
+- Trust-aware Prediction
+- Model Evaluation
 
 
 ---
@@ -270,7 +245,7 @@ Python • PyTorch • OpenCV • Deep Learning
 
 🏆 Best Innovation Award – BioFusion Undergraduate Exhibition 2026
 
-An IoT healthcare ecosystem combining:
+IoT healthcare ecosystem combining:
 
 - Embedded Systems
 - Wireless Communication
@@ -284,55 +259,54 @@ An IoT healthcare ecosystem combining:
 
 ESP32-based assistive technology solution.
 
-**Technology:**
+**Stack:**
 
-ESP32 • Embedded C • MQTT • Firebase • Sensors
-
+ESP32 • Embedded C • MQTT • Firebase
 
 Features:
 
 - Automation
-- Real-time monitoring
-- Cloud connectivity
+- Real-time Monitoring
+- Cloud Connectivity
 
 
 ---
 
 ## 🔥 GasGuard — Intelligent Safety System
 
-IoT + Machine Learning based LPG safety platform.
+IoT + ML based safety platform.
 
 Features:
 
-- Gas leakage detection
-- Weight monitoring
-- Environmental sensing
-- Predictive analysis
+- Gas Leakage Detection
+- Weight Monitoring
+- Environmental Sensing
+- Predictive Analysis
 
 
 ---
 
 ## 🏥 CareHub — Hospital Management System
 
-Full-stack healthcare management platform.
+Full-stack healthcare platform.
 
-Technology:
+**Stack:**
 
 Flutter • Node.js • REST API • Database Systems
 
 
 Features:
 
-- Role-based dashboards
-- Hospital workflows
-- Digital healthcare management
+- Role-based Dashboards
+- Hospital Workflows
+- Digital Healthcare Management
 
 
 ---
 
 ## 🧠 PasLang — Programming Language Project
 
-Compiler and programming language development project.
+Compiler and programming language development.
 
 Exploring:
 
@@ -348,7 +322,7 @@ Exploring:
 
 Offline-first mobile application.
 
-Technology:
+**Stack:**
 
 Flutter • GPS • Geofencing
 
@@ -357,10 +331,8 @@ Flutter • GPS • Geofencing
 
 # 📚 Research Interests
 
-Currently exploring:
-
-- AI-powered communication networks
-- 5G / 6G technologies
+- AI-powered Communication Networks
+- 5G / 6G Technologies
 - Network Intelligence
 - Edge AI
 - Industrial IoT
@@ -399,20 +371,30 @@ Artificial Intelligence
 Software
 +
 Automation
+
 =
+
 Intelligent Connected Systems
 ```
 
-Building technology that connects people, devices, and information.
-
 ---
 
-# 📊 GitHub Stats
+# 📊 Coding & Developer Profiles
+
+<p align="center">
+
+<a href="https://leetcode.com/u/pasinduw-sketch">
+<img src="https://leetcard.jacoblin.cool/pasinduw-sketch?theme=dark&font=Karma&ext=contest" width="420"/>
+</a>
+
+</p>
 
 
 <p align="center">
 
+<a href="https://github.com/Lilendra-Pasindu-Harsha">
 <img src="https://github-readme-stats.vercel.app/api?username=Lilendra-Pasindu-Harsha&show_icons=true&theme=tokyonight"/>
+</a>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lilendra-Pasindu-Harsha&layout=compact&theme=tokyonight"/>
 
@@ -422,7 +404,6 @@ Building technology that connects people, devices, and information.
 ---
 
 # 🌐 Connect With Me
-
 
 <p align="center">
 
@@ -435,11 +416,11 @@ Building technology that connects people, devices, and information.
 </a>
 
 <a href="https://leetcode.com/u/pasinduw-sketch">
-<img src="https://skillicons.dev/icons?i=leetcode" width="45"/>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/leetcode.svg" width="45"/>
 </a>
 
 <a href="https://www.kaggle.com/pasinduharsha01">
-<img src="https://skillicons.dev/icons?i=kaggle" width="45"/>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/kaggle.svg" width="45"/>
 </a>
 
 <a href="mailto:pasinduharsha02@gmail.com">
@@ -449,4 +430,4 @@ Building technology that connects people, devices, and information.
 </p>
 
 
-⭐ Open to collaboration, research discussions, internships, and innovative engineering projects.
+⭐ Open to collaboration, research, internships, and innovative engineering projects.
