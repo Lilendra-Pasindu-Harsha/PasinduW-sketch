@@ -1,206 +1,312 @@
-<!-- Animated Header with Gradient Wave -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,9,15&height=280&section=header&text=Pasindu%20Harsha&fontSize=90&fontAlign=50&fontAlignY=35&desc=Electronic%20%26%20Telecommunication%20Engineering%20Undergraduate&descSize=22&descAlign=50&descAlignY=55&animation=twinkling&fontColor=fff"/>
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&duration=3000&pause=1000&color=00FFD1&center=true&vCenter=true&multiline=false&repeat=true&width=850&height=70&lines=Embedded+Systems+Engineer+%7C+AI+Researcher;Building+Edge+AI+%26+IoT+Architectures;Deep+Learning+%7C+Signal+Processing+%7C+Hardware;Transforming+Signals+into+Intelligence" alt="Typing Animation" />
-</div>
+# Hi there, I'm Pasindu Harsha 👋🏼
+
+## Who am I 🙋‍♂️
+
+I am an undergraduate student pursuing a **BSc (Hons) Engineering in Electronic and Telecommunication Engineering** while also following the **Bachelor of Information Technology (BIT) degree at the University of Colombo School of Computing **.
+
+I am passionate about understanding how modern technologies work from end to end — from how data is collected by intelligent devices, how it travels through communication networks, how software systems process information, and how artificial intelligence transforms data into meaningful solutions.
+
+My work combines **Telecommunications, Software Engineering, Artificial Intelligence, Embedded Systems, Cybersecurity, and Internet of Things (IoT)**.
+
+I enjoy building systems where hardware, networks, and software come together to solve practical real-world problems.
+
+I believe engineering is not only about creating advanced technology, but also about designing solutions that are reliable, scalable, efficient, and valuable for people.
 
 ---
 
-<!-- About Me Section -->
-<div align="left">
-  <h3>🧑‍💻 About Me</h3>
-  <p>
-    <b>Electronic & Telecommunication Engineering Undergraduate</b> at <b>KDU</b> (General Sir John Kotelawala Defence University) — Intake 41<br>
-    Passionate about <b>Deep Learning</b>, <b>Digital Signal Processing</b> & <b>Edge AI</b><br>
-    Designing high-fidelity <b>IoT Node Architectures</b> & <b>Embedded Firmware Systems</b><br>
-    Programming <b>Vision & Signal AI Pipelines</b> with TensorFlow & OpenCV<br>
-    Prototyping mechanical enclosures with <b>SOLIDWORKS</b><br>
-    Always building at the intersection of hardware and intelligence<br>
-    📍 Based in Sri Lanka
-  </p>
-  <h3>🔗 Connect</h3>
-  <a href="https://linkedin.com/in/your-linkedin-username"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:your-email@domain.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://github.com/PasinduW-sketch"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-</div>
+# What I'm focused on 🔭
 
-<br clear="both"/>
+## 📡 Telecommunications & Networking
+
+Exploring modern communication technologies and intelligent network systems.
+
+- 4G LTE, 5G and future wireless communication technologies
+- Wireless communication systems
+- Network architecture and optimization
+- TCP/IP networking
+- Network monitoring and troubleshooting
+- Fiber communication concepts
+- IoT communication protocols
+- Network security and reliability
 
 ---
 
-<!-- Tech Stack -->
-<h2 align="center">⚡ Technical Arsenal</h2>
+## 🤖 Artificial Intelligence & Machine Learning
 
-<div align="center">
+Building intelligent solutions using data-driven approaches.
 
-### 🧠 AI & Machine Learning
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-ED1C24?style=for-the-badge&logo=mathworks&logoColor=white)
-
-### 🔌 Embedded Systems & IoT
-![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=for-the-badge&logo=raspberry-pi&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![SOLIDWORKS](https://img.shields.io/badge/SOLIDWORKS-DC524D?style=for-the-badge&logo=dassaultsystemes&logoColor=white)
-
-### 🌐 Full-Stack & Mobile
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Ballerina](https://img.shields.io/badge/Ballerina-FF5733?style=for-the-badge&logo=ballerina&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-
-### 🐍 Programming Languages
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-### 🛠️ Tools & DevOps
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-</div>
+- Machine Learning applications
+- Deep Learning
+- Computer Vision
+- Predictive analytics
+- AI-assisted automation
+- AI for communication networks
+- Research-oriented ML projects
 
 ---
 
-<!-- Featured Projects -->
-<h2 align="center">🚀 Innovation Showcases</h2>
+## 🔌 Embedded Systems & IoT
 
-<div align="center">
-<table border="0" width="100%">
-<tr>
-<td width="50%" valign="top">
+Developing connected intelligent devices.
 
-### 🫀 ECG-Net — Arrhythmia Classifier
-**Domain:** Deep Learning · Digital Signal Processing · Edge Healthcare
-
-**Stack:** `Python` · `TensorFlow` · `Keras` · `SciPy` · `NumPy`
-
-Hybrid **CNN-BiLSTM** deep network that processes, filters baseline drift, and classifies cardiac arrhythmias from real-time biometric telemetry loops. Developed under research banner **MedX Hackers**. Clinical-grade accuracy on multi-lead ECG streams.
-
-</td>
-<td width="50%" valign="top">
-
-### 🪟 Smart Automatic Window System
-**Domain:** Embedded Nodes · Hardware Automation · Multi-Sensor Fusion
-
-**Stack:** `C++` · `ESP32/Arduino` · `SOLIDWORKS`
-
-**🏆 Top 12 National Finalist — Genesis '25**
-
-Non-blocking real-time OS routines parsing multiple environmental sensors simultaneously to trigger precision mechanical overrides. Engineered with team **Spellbinders**.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 📍 GeoDoze — Battery-Optimized Geofencing
-**Domain:** Mobile Development · Geolocation API Services
-
-**Stack:** `Flutter` · `Dart` · `Google Maps API` · `Native OS Background Lifecycles`
-
-Custom background-persistent location listeners bypassing Android/iOS aggressive battery daemon terminations — enabling proactive geofenced transit notifications with minimal battery drain.
-
-</td>
-<td width="50%" valign="top">
-
-### 🔌 MediLink — Healthcare API Gateway
-**Domain:** Microservices Aggregation · ESB Backend Infrastructure
-
-**Stack:** `Ballerina` · `RESTful OpenAPIs` · `JSON/XML Structural Mappers`
-
-High-throughput backend data aggregation proxy matching UoM track frameworks — safely coordinating legacy hospital EHR registries into unified single-endpoint pipelines.
-
-</td>
-</tr>
-</table>
-</div>
+- ESP32 / ESP-IDF based systems
+- STM32 embedded development
+- Sensor-based automation
+- Edge computing concepts
+- Smart healthcare systems
+- Industrial IoT applications
+- Real-time monitoring solutions
 
 ---
 
-<!-- Achievements -->
-<h2 align="center">🏆 Milestones & Achievements</h2>
+## 💻 Software Engineering & IT
 
-<div align="center">
+Developing practical software solutions and information systems.
 
-| 🥈 | **Genesis '25 National Finalist** | Advanced to Top 12 bracket at KDU's national engineering competition |
-|:---:|:---|:---|
-| 🔒 | **TechXplore 2.0 Certified** | Blockchain Security domain certification for distributed application engineering |
-| 🚀 | **Intake 41 Leadership** | Driving concurrent hardware & system design groups within academic loops |
-| 🧠 | **MedX Hackers Research** | Clinical deep learning research for automated cardiac diagnostics |
-
-</div>
-
----
-
-<!-- GitHub Stats -->
-<h2 align="center">📊 GitHub Analytics</h2>
-
-<div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=PasinduW-sketch&show_icons=true&theme=tokyonight&count_private=true&hide_border=false" alt="Stats" height="165px" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PasinduW-sketch&layout=compact&theme=tokyonight&hide_border=false&langs_count=6" alt="Languages" height="165px" />
-      </td>
-    </tr>
-  </table>
-
-  <br/>
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PasinduW-sketch&theme=tokyonight&hide_border=false" alt="Streak" width="100%" />
-
-  <br/><br/>
-
-  <table border="0">
-    <tr>
-      <td>
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=PasinduW-sketch&theme=tokyonight" alt="GitHub Stats" />
-      </td>
-      <td>
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PasinduW-sketch&theme=tokyonight" width="98%" alt="Contribution Graph" />
-      </td>
-    </tr>
-  </table>
-</div>
-
-<!-- Snake Animation -->
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PasinduW-sketch/PasinduW-sketch/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PasinduW-sketch/PasinduW-sketch/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/PasinduW-sketch/PasinduW-sketch/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
+- Full-stack web applications
+- Mobile application development
+- Backend API development
+- Database management systems
+- Cloud-connected applications
+- Software architecture
+- System design
+- Information Technology concepts
 
 ---
 
-<!-- Visitor Counter -->
-<div align="center">
-  <img src="https://profile-counter.glitch.me/PasinduW-sketch/count.svg" alt="Visitor Counter" />
-</div>
+## 🔐 Cybersecurity & Industrial Automation
+
+Interested in protecting connected systems and critical infrastructure.
+
+- Network security concepts
+- IoT security
+- Industrial communication security
+- OT/ICS cybersecurity
+- Traffic analysis
+- Intelligent anomaly detection systems
 
 ---
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=4000&pause=1000&color=00FFD1&center=true&vCenter=true&width=650&lines=Star+my+repos+if+you+find+them+useful!;Open+for+internships+%26+collaborations;Building+at+the+intersection+of+hardware+%26+AI;Feel+free+to+reach+out+anytime!" />
+# Technologies I work with 🛠️
+
+## Programming Languages & AI
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,c,cpp,java,js,dart&perline=8" />
 </p>
 
-<!-- Footer -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,9,15&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=30&fontAlign=50&fontAlignY=70&fontColor=fff&animation=twinkling&desc=Let%27s%20engineer%20something%20extraordinary%20together&descSize=16&descAlign=50&descAlignY=90"/>
-</div>
+- Python
+- C / C++
+- Embedded C
+- Java
+- JavaScript
+- Dart
+
+AI / ML:
+
+- TensorFlow
+- PyTorch
+- OpenCV
+- Scikit-learn
+- Machine Learning
+- Deep Learning
+
+---
+
+# Embedded Systems & IoT
+
+<p>
+<img src="https://skillicons.dev/icons?i=arduino,raspberrypi&perline=8" />
+</p>
+
+- ESP32
+- ESP-IDF
+- STM32
+- Arduino
+- Raspberry Pi
+- Sensors and actuators
+- UART
+- I2C
+- SPI
+- MQTT
+- Wi-Fi
+- Bluetooth / BLE
+- Firebase IoT integration
+
+---
+
+# Networking & Telecommunications
+
+<p>
+<img src="https://skillicons.dev/icons?i=linux,docker&perline=8" />
+</p>
+
+- TCP/IP Networking
+- CCNA Fundamentals
+- Wireshark
+- Packet Analysis
+- VLAN
+- DHCP
+- DNS
+- Routing and Switching Concepts
+- Fiber Communication
+- LTE / 5G Technologies
+- Network Troubleshooting
+
+---
+
+# Software Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=flutter,react,nodejs,express,mysql,mongodb,firebase&perline=8" />
+</p>
+
+- Flutter Mobile Development
+- React Web Development
+- Node.js Backend
+- Express.js
+- REST APIs
+- Firebase
+- MySQL
+- MongoDB
+- Cloud Integration
+
+---
+
+# Featured Projects 🚀
+
+## 🤖 TrustRestore — AI Image Restoration Research
+
+A research-oriented computer vision project exploring reliable image restoration using deep learning.
+
+### Technologies:
+- PyTorch
+- OpenCV
+- Computer Vision
+- Self-supervised Learning
+- Deep Learning
+
+### Focus:
+- Image restoration
+- Degraded image analysis
+- Trust-aware prediction
+- Model reliability evaluation
+- PSNR / SSIM analysis
+
+---
+
+## 🔌 DiyaMithuru — Smart Assistive IoT System
+
+A smart embedded solution designed to improve accessibility through automation.
+
+### Technologies:
+- ESP32
+- Embedded C
+- MQTT
+- Firebase
+- IoT Communication
+
+### Features:
+- Sensor-based automation
+- Real-time monitoring
+- Cloud connectivity
+- Assistive technology design
+
+---
+
+## 🏥 HYGEIA — Smart Healthcare Platform
+
+An IoT-based healthcare ecosystem combining embedded systems, wireless communication, and intelligent monitoring.
+
+### Technologies:
+- ESP32
+- Sensors
+- Wireless Communication
+- Machine Learning
+- Mobile Application
+
+### Focus:
+- Remote health monitoring
+- Smart alerts
+- Connected healthcare solutions
+
+---
+
+## 🔥 GasGuard — Intelligent LPG Safety System
+
+A smart IoT safety platform combining machine learning and embedded technology.
+
+### Technologies:
+- ESP32
+- Sensors
+- Firebase
+- Machine Learning
+- Mobile Application
+
+### Features:
+- Gas leak detection
+- Environmental monitoring
+- Predictive safety analysis
+- Automated safety response
+
+---
+
+## 📍 GeoDoze — Intelligent Location Assistant
+
+An offline-first mobile application using GPS and geofencing technologies.
+
+### Technologies:
+- Flutter
+- GPS
+- Geofencing
+- Local Notifications
+
+### Features:
+- Smart destination alerts
+- Background location processing
+- Battery-efficient tracking
+
+---
+
+# Research & Engineering Interests 📚
+
+Currently exploring:
+
+- AI-enabled communication networks
+- 5G / 6G wireless systems
+- Network fault prediction
+- Intelligent IoT systems
+- Edge AI
+- Industrial automation
+- Cybersecurity for connected infrastructure
+- Smart communication systems
+
+---
+
+# Currently Learning 🌱
+
+- Advanced Computer Networks
+- CCNA 200-301
+- Cloud Computing
+- DevOps Practices
+- Machine Learning Engineering
+- Cybersecurity
+- Industrial IoT
+- Distributed Systems
+- Software Architecture
+
+---
+
+# My Engineering Philosophy 🌍
+
+I enjoy understanding systems from the inside out:
+
+**Where does the data come from?**
+
+**How does information travel through a system?**
+
+**What happens when something fails?**
+
+**How can intelligence improve reliability?**
+
+The future belongs to connected intelligent systems where:
