@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Pasindu Harsha 👋🏼</h1>
 
 <h3 align="center">
-Electronic & Telecommunication Engineering Undergraduate | BIT Undergraduate at UCSC
+Electronic & Telecommunication Engineering Undergraduate at KDU | BIT Undergraduate at UCSC
 </h3>
 
 <p align="center">
@@ -28,20 +28,7 @@ I build intelligent connected systems by combining:
 🔐 Cybersecurity  
 🤖 Robotics & Automation  
 
-My engineering approach:
 
-```
-Hardware
-   ↓
-Embedded Systems
-   ↓
-Communication Networks
-   ↓
-Data
-   ↓
-Artificial Intelligence
-   ↓
-Applications
 ```
 
 I focus on creating reliable solutions where **hardware, software, and intelligence work together.**
